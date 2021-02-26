@@ -13,3 +13,5 @@ Missing Textures/*
 
 *Default*/*
 *.lnk
+Tools/user_settings/package_output.txt
+Tools/user_settings/quickbms_export_dir.txt
